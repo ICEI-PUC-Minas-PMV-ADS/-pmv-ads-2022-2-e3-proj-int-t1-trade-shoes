@@ -8,19 +8,25 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+|Tamara Silva      | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|![1](https://user-images.githubusercontent.com/74699119/186230069-c76adfdf-e732-40fd-934a-d9d80357780e.png)| **Idade:** 23 <br> **Ocupação:** Estudante de Jornalismo |**Aplicativos:**<br>● Instagram<br>● Tiktok |
+|**Motivações:**<br>● Concluir sua faculdade<br>●  Ter acesso a novos tipos de<br> tênis. |**Frustrações:**<br>● Aumento do custo de vida e do custo dos<br> produtos em geral. |**Hobbies:**<br>● Viajar<br>● Música <br>● Cozinhar |
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+|Felipe Souza      | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|![2](https://user-images.githubusercontent.com/74699119/186230583-da7a053d-8297-4990-ae19-db347803924a.png)| **Idade:** 27 <br> **Ocupação:**  Especialista em marketing,<br>colecionador amador de tênis de marca |**Aplicativos:**<br>● Tiktok<br>● Facebook<br>● LinkedIn |
+|**Motivações:**<br>● Adicionar novos itens à sua<br> coleção de tênis<br>● Conhecer pessoas que<br> compartilhem seu hobby |**Frustrações:**<br>● Dificuldade para achar modelos de tênis<br> raros/antigos em bom estado. |**Hobbies:**<br>● Colecionar tênis<br>● Assistir séries |
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+|Douglas Gonçalves     | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|![2](https://user-images.githubusercontent.com/91163177/186244072-906f4b5e-fe53-41f5-8eb2-306ec98d297f.png)| **Idade:** 33 <br> **Ocupação:**  Advogado,<br> apaixonado por esportes |**Aplicativos:**<br>● Instagram<br>● Facebook<br>● LinkedIn |
+|**Motivações:**<br>● Trocar seus tênis esportivos antigos por outros diferentes<br>● Conhecer pessoas que pratiquem esportes e queiram trocar tênis esportivos |**Frustrações:**<br>● Dificuldade para armazenar seus tênis que estão em bom estado<br> por estar comprando sempre lançamentos e acumulando. |**Hobbies:**<br>● Colecionar tênis esportivos<br>● Praticar esportes |
+
+|Luiz Felipe     | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|![2](img/user1.png)| **Idade:** 32 <br> **Ocupação:**  Analista financeiro,<br> apaixonado por esportes |**Aplicativos:**<br>● Instagram<br>● Pinterest<br>● LinkedIn |
+|**Motivações:**<br>● Defender sua tese de doutorado.<br>● Encontrar uma comunidade que adora sapatos sociais de marcas caras.|**Frustrações:**<br>● Dificuldade em encontrar pessoas que queiram realizar a troca de sapatos sociais. |**Hobbies:**<br>● Tocar Violão<br>● Correr<br>● Assistir Futebol |
 
 ## Histórias de Usuários
 
