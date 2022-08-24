@@ -5,11 +5,7 @@ Segundo estudos do "Envolverde" da Carta Capital, para produzir um quilo de algo
 O presente projeto, "Trade shoes" trás consigo uma proposta inovadora no que tange a rotatividade de calçados usados. Isso será possível por meio de públicação de calçados para troca e venda, sendo essa a ideia central do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Diante do exposto, percebe-se que há três problemas a serem sanados, a urgência em disponibilizar canais que permitam aos usuários realizar a troca de calçados, reduzir o consumo desenfreado e contribuir com a diminuição da poluição no meio ambiente.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
