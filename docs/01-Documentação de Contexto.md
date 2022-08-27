@@ -27,12 +27,8 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+É de grande importância que o consumismo desenfreado é um problema social e pode impactar de forma negativa na vida financeira das pessoas e também ao meio ambiente. Visando isso, essa ferramenta tecnológica tem como intuito proporcionar aos usuários uma maneira de trocarem seus tênis que acabariam indo para o lixo ou acumulando espaço em suas casas, de forma segura, rápida e fácil, transformando o que era um problema em algo vantajoso tanto para o usuário quanto para o ambiente.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
