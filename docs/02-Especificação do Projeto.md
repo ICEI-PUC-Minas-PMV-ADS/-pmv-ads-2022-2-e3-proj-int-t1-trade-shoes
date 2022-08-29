@@ -34,17 +34,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|Tamara Silva        | Ter acesso a uma plataforma aonde possa obter várias opções de tênis usados de forma acessível. |Poder variar nas minhas escolhas de tênis no dia a dia. |
+|Tamara Silva        | Poder trocar tênis dos quais já enjoei por outros tênis de valor similar. | Poder economizar dinheiro na hora de obter novos modelos de tênis. |
+|Felipe Souza        | Poder buscar por modelos de tênis específicos e visualizar todas as informações relevantes aos mesmos. | Poder avaliar se os tênis anunciado atendem às suas expectativas antes de realizar a transação. |
+|Felipe Souza        | Realizar a troca de seus tênis por meio de uma empresa segura que garanta a integridade do produto e o assegure em caso de fraude. | Poder obter os modelos de tênis que deseja sem o risco de receber produtos falsificados ou em estado de conservação ruim. |
+|Douglas Gonçalves   | Poder trocar seus tênis de esportes de alto rendimento antigos em bom estado por outros tênis diferentes| Poder trocar seus tênis de alto rendimento por outros variados, já que os de alto rendimento ele sempre compra lançamentos e não quer acumular espaços com os antigos. |
 
 ## Modelagem do Processo de Negócio 
 
